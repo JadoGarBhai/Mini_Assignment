@@ -1,0 +1,12 @@
+1- How we can access HTML elements using DOM in javascript?
+
+Answer:
+There are some most use and popular methods to access HTML elements using DOM in javascript:
+    1-getElementById: Retrieves an element by its unique ID attribute.
+    2-getElementsByClassName: Retrieves a collection of elements that have a specific class name.
+    3-getElementsByTagName: Retrieves a collection of elements with a specific tag name.
+    4-querySelector: Retrieves the first element that matches a specific CSS selector.
+    5-querySelectorAll: Retrieves a list of all elements that match a specific CSS selector.
+      
+2- What are the activities that we can perform using DOM?
+3- What are the event-listners in DOM?
